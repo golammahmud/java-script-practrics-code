@@ -1,0 +1,21 @@
+.para-style{
+    font-size:3rem;
+    font-weight: 500;
+    font-style: italic;
+    color:rgb(221, 13, 13);
+}
+
+.event-class{
+    /* color:aqua;
+    font-size:3rem; */
+    box-shadow: rgb(128, 247, 9);
+    opacity: 0.8;
+    color:firebrick;
+    font-size: 3rem;
+}
+.anim-class{
+    box-shadow: rgb(128, 247, 9);
+    opacity: 0.5;
+    color:firebrick;
+    font: size 3rem;
+}
